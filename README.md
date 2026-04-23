@@ -18,7 +18,7 @@ This project demonstrates proficiency in data visualization, dashboard design, a
 ---
 
 ### 🎯 Key Business Questions
-1. What is the total revenue and order volume?
+1. What is the total revenue?
 2. Which US region generates the highest sales?
 3. Which product category is most profitable?
 4. How can users interactively explore data by region?
@@ -29,7 +29,6 @@ This project demonstrates proficiency in data visualization, dashboard design, a
 1. **Total Revenue:** $2.3M+ in sales across all regions
 2. **Top Performing Region:** West region leads in total sales volume
 3. **Leading Category:** Technology category generates the highest revenue
-4. **Order Volume:** 5,000+ orders processed in the dataset
 
 ---
 
@@ -44,7 +43,7 @@ This project demonstrates proficiency in data visualization, dashboard design, a
 ### 🛠️ Tools & Skills Demonstrated
 - **Data Visualization:** Bar charts, KPI cards, dashboard composition
 - **Tableau Public:** Data connection, formatting, publishing, interactivity
-- **Data Aggregation:** SUM, COUNT DISTINCT measures
+- **Data Aggregation:** SUM measures
 - **Business Intelligence:** Translating raw data into actionable insights
 - **Dashboard Design:** Layout principles, currency formatting, clear labeling
 
@@ -65,9 +64,7 @@ This project demonstrates proficiency in data visualization, dashboard design, a
 
 ---
 
-
 **Anumula Akshitha**  
-
 
 ---
 
